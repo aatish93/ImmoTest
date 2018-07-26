@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"request": "latest",
+		"cheerio": "latest",
+		"readline-sync": "latest",
+		"fs": "latest"
+	}
+}

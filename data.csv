@@ -1,10 +1,32 @@
-City; Number of rooms; Floor Size; Price
-Ponda; 2; 58 FTK ; 45 Lac
-Ponda; 1; 53 FTK ; 24 Lac
-Ponda; 1; 776 FTK ; Call for Price
-Ponda; 2; 74 FTK ; 43 Lac
-Ponda; 2; 560 FTK ; 32 Lac
-Ponda; 1; 160 FTK ; 22 Lac
-Ponda; 2; 81 FTK ; 1.20 Cr
-Ponda; 2; 1786 FTK ; 45 Lac
-Ponda; 3; undefined; 26.5 Lac
+City; Number of rooms; Surface Area; Price
+Mapusa; 3; 133 sqm; 85 Lac
+Mapusa; 2; 83 sqm; 42.9 Lac
+Assagao; 1; 42 sqm; 47 Lac
+Mapusa; 2; 100 sqm; 53 Lac
+Karaswada; 2; 80 sqm; 56 Lac
+Mapusa; 3; 147 sqm; 85 Lac
+Mapusa; 8; 6300 sqft; 3.65 Cr
+Mapusa; 2; 116 sqm; 48 Lac
+Mapusa; 3; 147 sqm; 80 Lac
+Mapusa; 2; 650 sqft; 37 Lac
+Mapusa; 2; 830 sqft; 38 Lac
+Karaswada; 2; 71 sqm; 39 Lac
+Mapusa; 2; 90 sqm; 65 Lac
+Mapusa; 2; 85 sqm; 35 Lac
+Mapusa; 1; 58 sqm; 30.6 Lac
+Mapusa; 1; 60 sqm; 30 Lac
+Karaswada; 2; 102 sqm; 49 Lac
+Mapusa; 3; 147 sqm; 75 Lac
+Mapusa; 2; 92 sqm; 55 Lac
+Mapusa; 2; 109 sqm; 53.4 Lac
+Mapusa; 2; 104 sqm; 46.8 Lac
+Mapusa; 1; 69 sqm; 35.9 Lac
+Mapusa; 3; 137 sqm; 90 Lac
+Karaswada; 2; 102 sqm; 51 Lac
+Karaswada; 3; 140 sqm; 62 Lac
+Mapusa; 2; 85 sqm; 35 Lac
+Mapusa; 2; 75 sqm; 50 Lac
+Mapusa; 2; 88 sqm; 45.8 Lac
+Karaswada; 2; 73 sqm; 49.3 Lac
+Mapusa; 2; 100 sqm; 35 Lac
+Mapusa; 3; 140 sqm; 60 Lac

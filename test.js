@@ -8,7 +8,7 @@ const cheerio = require('cheerio');
 var cityName = readline.question("Enter City/State:");
 var locality = readline.question("Enter locality:");
 
-request('https://www.magicbricks.com/property-for-sale/residential-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Residential-House,Villa&Locality='+locality+'&cityName='+cityName, function (error, response, body) {
+request('https://www.magicbricks.com/property-for-sale/residential-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment&Locality='+locality+'&cityName='+cityName, function (error, response, body) {
   console.log('error:', error);
   console.log('statusCode:', response && response.statusCode);
   var flatData=getFlatData(body);
